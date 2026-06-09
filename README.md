@@ -1,7 +1,7 @@
 ## FUTURE_CS_01 Vulnerability Assessment Report for a Live Website - Future Interns Cybersecurity Task 1
 
 Intern: Mlungisi Sibitane  
-Target: https://karteverything.vercel.app.
+Target: https://karteverything.vercel.app
 
 ### Objective  
 The objective of this assessments was to evaluaye the security of a publicly accessible website through passive security testing techniques. The assessment focused on identifying common security weaknesses, classifying risks, and providing practical remediation recommendations.  
