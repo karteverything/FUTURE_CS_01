@@ -26,7 +26,7 @@ The objective of this assessments was to evaluaye the security of a publicly acc
 - Browser Developer Tools
 - curl
 
-### Overal Risk Rating
+### Overall Risk Rating
 MEDIUM  
 The assessment identified several medium and low-risk findings related to security headers and client-side security controls. No critical or high-risk vulnerabilities were discovered. Implementing the recommended security controls will improve the application's resillience against common web-based attacks and align it more closely with industry best practices. 
 
